@@ -1,0 +1,481 @@
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\messagebuffer.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\index.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\headernames.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\js\signalr.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\messagebuffer.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\package.json
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\loggers.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\subject.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\messagebuffer.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\stream.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\subject.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\istatefulreconnectoptions.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\js\login.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\itransport.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery\dist\jquery.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery\LICENSE.txt
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\utils.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\accesstokenhttpclient.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\loggers.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\js\signalr.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\accesstokenhttpclient.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\subject.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\messagebuffer.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\subject.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\utils.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\favicon.ico
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery\dist\jquery.min.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\js\site.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\accesstokenhttpclient.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\headernames.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\stream.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\errors.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\utils.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery\dist\jquery.min.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\accesstokenhttpclient.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\stream.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\css\site.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\js\signalr.min.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\errors.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\utils.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\readme.md
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\js\chat.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\itransport.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\errors.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\index.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\index.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\js\signalr.min.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\src\third-party-notices.txt
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery-validation\LICENSE.md
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\istatefulreconnectoptions.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\stream.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\istatefulreconnectoptions.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\errors.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\index.js
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\wwwroot\lib\microsoft\signalr\dist\esm\istatefulreconnectoptions.js
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\chat.js
+wwwroot\js\login.js
+wwwroot\js\signalr.js
+wwwroot\js\signalr.js.map
+wwwroot\js\signalr.min.js
+wwwroot\js\signalr.min.js.map
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js
+wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\accesstokenhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\accesstokenhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js
+wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js
+wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\errors.js
+wwwroot\lib\microsoft\signalr\dist\cjs\errors.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js
+wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js
+wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js
+wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js
+wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js
+wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js
+wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\index.js
+wwwroot\lib\microsoft\signalr\dist\cjs\index.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js
+wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\istatefulreconnectoptions.js
+wwwroot\lib\microsoft\signalr\dist\cjs\istatefulreconnectoptions.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js
+wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\messagebuffer.js
+wwwroot\lib\microsoft\signalr\dist\cjs\messagebuffer.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js
+wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\stream.js
+wwwroot\lib\microsoft\signalr\dist\cjs\stream.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\subject.js
+wwwroot\lib\microsoft\signalr\dist\cjs\subject.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js
+wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\utils.js
+wwwroot\lib\microsoft\signalr\dist\cjs\utils.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js
+wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\accesstokenhttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\accesstokenhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\accesstokenhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\browser-index.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js
+wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js
+wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\errors.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\errors.js
+wwwroot\lib\microsoft\signalr\dist\esm\errors.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js
+wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\headernames.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\headernames.js
+wwwroot\lib\microsoft\signalr\dist\esm\headernames.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\httpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js
+wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\iconnection.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js
+wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js
+wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\ilogger.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js
+wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\index.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\index.js
+wwwroot\lib\microsoft\signalr\dist\esm\index.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js
+wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\istatefulreconnectoptions.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\istatefulreconnectoptions.js
+wwwroot\lib\microsoft\signalr\dist\esm\istatefulreconnectoptions.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\itransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\itransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\itransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\loggers.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\loggers.js
+wwwroot\lib\microsoft\signalr\dist\esm\loggers.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\messagebuffer.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\messagebuffer.js
+wwwroot\lib\microsoft\signalr\dist\esm\messagebuffer.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\polyfills.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js
+wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\stream.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\stream.js
+wwwroot\lib\microsoft\signalr\dist\esm\stream.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\subject.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\subject.js
+wwwroot\lib\microsoft\signalr\dist\esm\subject.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js
+wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\utils.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\utils.js
+wwwroot\lib\microsoft\signalr\dist\esm\utils.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js.map
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js.map
+wwwroot\lib\microsoft\signalr\package.json
+wwwroot\lib\microsoft\signalr\readme.md
+wwwroot\lib\microsoft\signalr\src\abortcontroller.ts
+wwwroot\lib\microsoft\signalr\src\accesstokenhttpclient.ts
+wwwroot\lib\microsoft\signalr\src\browser-index.ts
+wwwroot\lib\microsoft\signalr\src\defaulthttpclient.ts
+wwwroot\lib\microsoft\signalr\src\defaultreconnectpolicy.ts
+wwwroot\lib\microsoft\signalr\src\errors.ts
+wwwroot\lib\microsoft\signalr\src\fetchhttpclient.ts
+wwwroot\lib\microsoft\signalr\src\handshakeprotocol.ts
+wwwroot\lib\microsoft\signalr\src\headernames.ts
+wwwroot\lib\microsoft\signalr\src\httpclient.ts
+wwwroot\lib\microsoft\signalr\src\httpconnection.ts
+wwwroot\lib\microsoft\signalr\src\hubconnection.ts
+wwwroot\lib\microsoft\signalr\src\hubconnectionbuilder.ts
+wwwroot\lib\microsoft\signalr\src\iconnection.ts
+wwwroot\lib\microsoft\signalr\src\ihttpconnectionoptions.ts
+wwwroot\lib\microsoft\signalr\src\ihubprotocol.ts
+wwwroot\lib\microsoft\signalr\src\ilogger.ts
+wwwroot\lib\microsoft\signalr\src\index.ts
+wwwroot\lib\microsoft\signalr\src\iretrypolicy.ts
+wwwroot\lib\microsoft\signalr\src\istatefulreconnectoptions.ts
+wwwroot\lib\microsoft\signalr\src\itransport.ts
+wwwroot\lib\microsoft\signalr\src\jsonhubprotocol.ts
+wwwroot\lib\microsoft\signalr\src\loggers.ts
+wwwroot\lib\microsoft\signalr\src\longpollingtransport.ts
+wwwroot\lib\microsoft\signalr\src\messagebuffer.ts
+wwwroot\lib\microsoft\signalr\src\polyfills.ts
+wwwroot\lib\microsoft\signalr\src\serversenteventstransport.ts
+wwwroot\lib\microsoft\signalr\src\stream.ts
+wwwroot\lib\microsoft\signalr\src\subject.ts
+wwwroot\lib\microsoft\signalr\src\textmessageformat.ts
+wwwroot\lib\microsoft\signalr\src\third-party-notices.txt
+wwwroot\lib\microsoft\signalr\src\utils.ts
+wwwroot\lib\microsoft\signalr\src\websockettransport.ts
+wwwroot\lib\microsoft\signalr\src\xhrhttpclient.ts
