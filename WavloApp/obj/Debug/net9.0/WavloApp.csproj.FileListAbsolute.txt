@@ -225,8 +225,6 @@ D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\WavloApp.p
 D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\WavloApp.genruntimeconfig.cache
 D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\ref\WavloApp.dll
 D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\bin\Debug\net9.0\libman.json
-D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed\tw7ajyxlkv-ks7y8myazb.gz
-D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed\akdq8gtn0z-jenv8fpczn.gz
 D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed\dgjbvah5zg-cqu3aupeo3.gz
 D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed\3nzc7m5kf8-kgm1xd49p2.gz
 D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed\r25iy17t6u-m3i9f6419i.gz
@@ -370,3 +368,6 @@ D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed
 D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed\6wf9w1zm9y-v3xm4lqvh5.gz
 D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed\tqt0el9lee-5uz2mx4zli.gz
 D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed\x9s48blcm2-q8n3h3gjc5.gz
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\WavloApp.sourcelink.json
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed\tw7ajyxlkv-1wx1c091l8.gz
+D:\College\LEVEL 3 (2)\SW2\Project\WavloApp\WavloApp\obj\Debug\net9.0\compressed\akdq8gtn0z-pgx4luq9de.gz

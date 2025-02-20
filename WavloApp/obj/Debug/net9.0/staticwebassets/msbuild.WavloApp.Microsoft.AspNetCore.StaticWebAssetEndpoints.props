@@ -24,29 +24,29 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 19:16:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WavloApp/js/chat.1wx1c091l8.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\chat.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1wx1c091l8"},{"Name":"integrity","Value":"sha256-L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz\u002Bs="},{"Name":"label","Value":"_content/WavloApp/js/chat.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6031"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz\u002Bs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 20:44:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WavloApp/js/chat.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\chat.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6674"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 20:15:37 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WavloApp/js/chat.ks7y8myazb.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\chat.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ks7y8myazb"},{"Name":"integrity","Value":"sha256-9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE="},{"Name":"label","Value":"_content/WavloApp/js/chat.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6674"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 20:15:37 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WavloApp/js/login.jenv8fpczn.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\login.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jenv8fpczn"},{"Name":"integrity","Value":"sha256-O7yl\u002BgNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q="},{"Name":"label","Value":"_content/WavloApp/js/login.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1028"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022O7yl\u002BgNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 20:15:37 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz\u002Bs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6031"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz\u002Bs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 20:44:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WavloApp/js/login.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\login.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-O7yl\u002BgNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1028"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022O7yl\u002BgNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 20:15:37 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lzCWppuLcs\u002B7TbpFJxLguirJcyLsFhQsOO\u002BTQVEFOus="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"902"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022lzCWppuLcs\u002B7TbpFJxLguirJcyLsFhQsOO\u002BTQVEFOus=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 20:44:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WavloApp/js/login.pgx4luq9de.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\login.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pgx4luq9de"},{"Name":"integrity","Value":"sha256-lzCWppuLcs\u002B7TbpFJxLguirJcyLsFhQsOO\u002BTQVEFOus="},{"Name":"label","Value":"_content/WavloApp/js/login.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"902"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022lzCWppuLcs\u002B7TbpFJxLguirJcyLsFhQsOO\u002BTQVEFOus=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 20:44:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WavloApp/js/signalr.cqu3aupeo3.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\signalr.js'))</AssetFile>

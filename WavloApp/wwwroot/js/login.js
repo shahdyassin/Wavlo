@@ -5,14 +5,14 @@
     fetch("http://localhost:5000/api/user/authenticate", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ username, password })  // إرسال بيانات المستخدم
+        body: JSON.stringify({ username, password })  
     })
         .then(response => response.json())
         .then(data => {
             if (data.token) {
-                localStorage.setItem("access_token", data.token);  // حفظ التوكن
+                localStorage.setItem("access_token", data.token);  
                 console.log("Token stored successfully:", data.token);
-                window.location.href = "chat.html";  // تحويل المستخدم إلى صفحة الدردشة
+                window.location.href = "chat.html";  
             } else {
                 alert("Login failed! Please check your credentials.");
             }

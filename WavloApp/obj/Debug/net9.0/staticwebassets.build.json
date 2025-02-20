@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sUNV1V/2b72cQ8qOvi2pFIn7wwt6UzhXUJJ0GHW5kPE=",
+  "Hash": "YSMUFRVld1uH7qYpyOmvMLJ1o3l/JOj3gxLhBczKZ1Q=",
   "Source": "WavloApp",
   "BasePath": "_content/WavloApp",
   "Mode": "Default",
@@ -1067,12 +1067,12 @@
       "OriginalItemSpec": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\fetchhttpclient.js"
     },
     {
-      "Identity": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\akdq8gtn0z-jenv8fpczn.gz",
+      "Identity": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\akdq8gtn0z-pgx4luq9de.gz",
       "SourceId": "WavloApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WavloApp",
-      "RelativePath": "js/login#[.{fingerprint=jenv8fpczn}]?.js.gz",
+      "RelativePath": "js/login#[.{fingerprint=pgx4luq9de}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1081,8 +1081,8 @@
       "RelatedAsset": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\js\\login.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "txtwb0hwko",
-      "Integrity": "b6US72x78Mm00EV7kzfdJmWqZ/lCyaq2vagZ0joHT14=",
+      "Fingerprint": "l4rqpjma4z",
+      "Integrity": "Ky+4TmG75jWoGtf1WH4pAQOkBGGHnItWvE7y9TByPp8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\js\\login.js"
@@ -3461,12 +3461,12 @@
       "OriginalItemSpec": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\tw7ajyxlkv-ks7y8myazb.gz",
+      "Identity": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\tw7ajyxlkv-1wx1c091l8.gz",
       "SourceId": "WavloApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WavloApp",
-      "RelativePath": "js/chat#[.{fingerprint=ks7y8myazb}]?.js.gz",
+      "RelativePath": "js/chat#[.{fingerprint=1wx1c091l8}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3475,8 +3475,8 @@
       "RelatedAsset": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\js\\chat.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4n87y42g75",
-      "Integrity": "gDl0aXeeCKETWDb+KKUvyF5b+pN8tJ019YuuEuEykfo=",
+      "Fingerprint": "17m5341oov",
+      "Integrity": "nYJ0x9x9kS5sn+j+W7jCozmT9vLcZA5BoCZzLLrVXRM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\js\\chat.js"
@@ -4504,8 +4504,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ks7y8myazb",
-      "Integrity": "9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE=",
+      "Fingerprint": "1wx1c091l8",
+      "Integrity": "L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz+s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\chat.js"
@@ -4525,8 +4525,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jenv8fpczn",
-      "Integrity": "O7yl+gNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q=",
+      "Fingerprint": "pgx4luq9de",
+      "Integrity": "lzCWppuLcs+7TbpFJxLguirJcyLsFhQsOO+TQVEFOus=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\login.js"
@@ -10800,13 +10800,13 @@
       ]
     },
     {
-      "Route": "js/chat.js",
-      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\tw7ajyxlkv-ks7y8myazb.gz",
+      "Route": "js/chat.1wx1c091l8.js",
+      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\tw7ajyxlkv-1wx1c091l8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000596302922"
+          "Quality": "0.000698812020"
         }
       ],
       "ResponseHeaders": [
@@ -10816,19 +10816,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1676"
+          "Value": "1430"
         },
         {
           "Name": "ETag",
-          "Value": "\"gDl0aXeeCKETWDb+KKUvyF5b+pN8tJ019YuuEuEykfo=\""
+          "Value": "\"nYJ0x9x9kS5sn+j+W7jCozmT9vLcZA5BoCZzLLrVXRM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -10844,18 +10844,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE=\""
+          "Value": "W/\"L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz+s=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "1wx1c091l8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/chat.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE="
+          "Value": "sha256-L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz+s="
         }
       ]
     },
     {
-      "Route": "js/chat.js",
+      "Route": "js/chat.1wx1c091l8.js",
       "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\js\\chat.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10865,7 +10873,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6674"
+          "Value": "6031"
         },
         {
           "Name": "Content-Type",
@@ -10873,121 +10881,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE=\""
+          "Value": "\"L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz+s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE="
-        }
-      ]
-    },
-    {
-      "Route": "js/chat.js.gz",
-      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\tw7ajyxlkv-ks7y8myazb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1676"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gDl0aXeeCKETWDb+KKUvyF5b+pN8tJ019YuuEuEykfo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gDl0aXeeCKETWDb+KKUvyF5b+pN8tJ019YuuEuEykfo="
-        }
-      ]
-    },
-    {
-      "Route": "js/chat.ks7y8myazb.js",
-      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\tw7ajyxlkv-ks7y8myazb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000596302922"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1676"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gDl0aXeeCKETWDb+KKUvyF5b+pN8tJ019YuuEuEykfo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ks7y8myazb"
+          "Value": "1wx1c091l8"
         },
         {
           "Name": "label",
@@ -10995,13 +10903,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE="
+          "Value": "sha256-L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz+s="
         }
       ]
     },
     {
-      "Route": "js/chat.ks7y8myazb.js",
-      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\js\\chat.js",
+      "Route": "js/chat.1wx1c091l8.js.gz",
+      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\tw7ajyxlkv-1wx1c091l8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11010,7 +10918,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6674"
+          "Value": "1430"
         },
         {
           "Name": "Content-Type",
@@ -11018,56 +10926,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE=\""
+          "Value": "\"nYJ0x9x9kS5sn+j+W7jCozmT9vLcZA5BoCZzLLrVXRM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ks7y8myazb"
-        },
-        {
-          "Name": "label",
-          "Value": "js/chat.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9BtNfgbP2KFRWxeqyvl7rZr1TMSRlXtk0fNgo4WcSQE="
-        }
-      ]
-    },
-    {
-      "Route": "js/chat.ks7y8myazb.js.gz",
-      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\tw7ajyxlkv-ks7y8myazb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1676"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gDl0aXeeCKETWDb+KKUvyF5b+pN8tJ019YuuEuEykfo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11085,7 +10948,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ks7y8myazb"
+          "Value": "1wx1c091l8"
         },
         {
           "Name": "label",
@@ -11093,18 +10956,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gDl0aXeeCKETWDb+KKUvyF5b+pN8tJ019YuuEuEykfo="
+          "Value": "sha256-nYJ0x9x9kS5sn+j+W7jCozmT9vLcZA5BoCZzLLrVXRM="
         }
       ]
     },
     {
-      "Route": "js/login.jenv8fpczn.js",
-      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\akdq8gtn0z-jenv8fpczn.gz",
+      "Route": "js/chat.js",
+      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\tw7ajyxlkv-1wx1c091l8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001754385965"
+          "Quality": "0.000698812020"
         }
       ],
       "ResponseHeaders": [
@@ -11114,19 +10977,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "569"
+          "Value": "1430"
         },
         {
           "Name": "ETag",
-          "Value": "\"b6US72x78Mm00EV7kzfdJmWqZ/lCyaq2vagZ0joHT14=\""
+          "Value": "\"nYJ0x9x9kS5sn+j+W7jCozmT9vLcZA5BoCZzLLrVXRM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -11142,26 +11005,155 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"O7yl+gNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q=\""
+          "Value": "W/\"L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz+s=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "jenv8fpczn"
-        },
-        {
-          "Name": "label",
-          "Value": "js/login.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-O7yl+gNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q="
+          "Value": "sha256-L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz+s="
         }
       ]
     },
     {
-      "Route": "js/login.jenv8fpczn.js",
+      "Route": "js/chat.js",
+      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\js\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L0IwGfQbt7aoP5x22jwmkQc5gyYNs2KCn139R6SPz+s="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.js.gz",
+      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\tw7ajyxlkv-1wx1c091l8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nYJ0x9x9kS5sn+j+W7jCozmT9vLcZA5BoCZzLLrVXRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nYJ0x9x9kS5sn+j+W7jCozmT9vLcZA5BoCZzLLrVXRM="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\akdq8gtn0z-pgx4luq9de.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002145922747"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ky+4TmG75jWoGtf1WH4pAQOkBGGHnItWvE7y9TByPp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lzCWppuLcs+7TbpFJxLguirJcyLsFhQsOO+TQVEFOus=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lzCWppuLcs+7TbpFJxLguirJcyLsFhQsOO+TQVEFOus="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
       "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\js\\login.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11171,7 +11163,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1028"
+          "Value": "902"
         },
         {
           "Name": "Content-Type",
@@ -11179,11 +11171,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"O7yl+gNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q=\""
+          "Value": "\"lzCWppuLcs+7TbpFJxLguirJcyLsFhQsOO+TQVEFOus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lzCWppuLcs+7TbpFJxLguirJcyLsFhQsOO+TQVEFOus="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js.gz",
+      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\akdq8gtn0z-pgx4luq9de.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ky+4TmG75jWoGtf1WH4pAQOkBGGHnItWvE7y9TByPp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ky+4TmG75jWoGtf1WH4pAQOkBGGHnItWvE7y9TByPp8="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.pgx4luq9de.js",
+      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\akdq8gtn0z-pgx4luq9de.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002145922747"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ky+4TmG75jWoGtf1WH4pAQOkBGGHnItWvE7y9TByPp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lzCWppuLcs+7TbpFJxLguirJcyLsFhQsOO+TQVEFOus=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pgx4luq9de"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lzCWppuLcs+7TbpFJxLguirJcyLsFhQsOO+TQVEFOus="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.pgx4luq9de.js",
+      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lzCWppuLcs+7TbpFJxLguirJcyLsFhQsOO+TQVEFOus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11193,7 +11330,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jenv8fpczn"
+          "Value": "pgx4luq9de"
         },
         {
           "Name": "label",
@@ -11201,13 +11338,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-O7yl+gNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q="
+          "Value": "sha256-lzCWppuLcs+7TbpFJxLguirJcyLsFhQsOO+TQVEFOus="
         }
       ]
     },
     {
-      "Route": "js/login.jenv8fpczn.js.gz",
-      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\akdq8gtn0z-jenv8fpczn.gz",
+      "Route": "js/login.pgx4luq9de.js.gz",
+      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\akdq8gtn0z-pgx4luq9de.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11216,7 +11353,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "569"
+          "Value": "465"
         },
         {
           "Name": "Content-Type",
@@ -11224,11 +11361,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b6US72x78Mm00EV7kzfdJmWqZ/lCyaq2vagZ0joHT14=\""
+          "Value": "\"Ky+4TmG75jWoGtf1WH4pAQOkBGGHnItWvE7y9TByPp8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
+          "Value": "Thu, 20 Feb 2025 20:44:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11246,7 +11383,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jenv8fpczn"
+          "Value": "pgx4luq9de"
         },
         {
           "Name": "label",
@@ -11254,144 +11391,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-b6US72x78Mm00EV7kzfdJmWqZ/lCyaq2vagZ0joHT14="
-        }
-      ]
-    },
-    {
-      "Route": "js/login.js",
-      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\akdq8gtn0z-jenv8fpczn.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001754385965"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "569"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"b6US72x78Mm00EV7kzfdJmWqZ/lCyaq2vagZ0joHT14=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"O7yl+gNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-O7yl+gNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q="
-        }
-      ]
-    },
-    {
-      "Route": "js/login.js",
-      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\wwwroot\\js\\login.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1028"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"O7yl+gNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-O7yl+gNoYWAskghprueM7xSV9XDqSRZXXNEmyyphI4Q="
-        }
-      ]
-    },
-    {
-      "Route": "js/login.js.gz",
-      "AssetFile": "D:\\College\\LEVEL 3 (2)\\SW2\\Project\\WavloApp\\WavloApp\\obj\\Debug\\net9.0\\compressed\\akdq8gtn0z-jenv8fpczn.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "569"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"b6US72x78Mm00EV7kzfdJmWqZ/lCyaq2vagZ0joHT14=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 20:15:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-b6US72x78Mm00EV7kzfdJmWqZ/lCyaq2vagZ0joHT14="
+          "Value": "sha256-Ky+4TmG75jWoGtf1WH4pAQOkBGGHnItWvE7y9TByPp8="
         }
       ]
     },

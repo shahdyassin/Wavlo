@@ -11,38 +11,38 @@ if (!token) {
         .configureLogging(signalR.LogLevel.Information)
         .build();
 
-    // استقبال إشعار عند اتصال مستخدم
+    
     connection.on("ReceiveUserConnected", function (userId, userName) {
         addMessage(`${userName} has connected.`);
     });
 
-    // استقبال إشعار عند انقطاع اتصال مستخدم
+    
     connection.on("ReceiveUserDisConnected", function (userId, userName) {
         addMessage(`${userName} has disconnected.`);
     });
 
-    // استقبال إشعار عند إضافة غرفة دردشة
+    
     connection.on("ReceiveAddRoomMessage", function (maxRoom, roomId, roomName, userId, userName) {
         addMessage(`${userName} has created room: ${roomName}`);
         fillRoomDropDown();
     });
 
-    // استقبال إشعار عند حذف غرفة دردشة
+    
     connection.on("ReceiveDeleteRoomMessage", function (deleted, selected, roomName, userName) {
         addMessage(`${userName} has deleted room: ${roomName}`);
     });
 
-    // استقبال رسالة عامة
+    
     connection.on("ReceivePublicMessage", function (roomId, userId, userName, message, roomName) {
         addMessage(`[Public - ${roomName}] ${userName}: ${message}`);
     });
 
-    // استقبال رسالة خاصة
+    
     connection.on("ReceivePrivateMessage", function (senderId, senderName, receiverId, message, chatId, receiverName) {
         addMessage(`[Private to ${receiverName}] ${senderName}: ${message}`);
     });
 
-    // إرسال رسالة عامة
+   
     function sendPublicMessage() {
         let inputMsg = document.getElementById('txtPublicMessage');
         let ddlSelRoom = document.getElementById('ddlSelRoom');
@@ -53,7 +53,7 @@ if (!token) {
         inputMsg.value = '';
     }
 
-    // إرسال رسالة خاصة
+    
     function sendPrivateMessage() {
         let inputMsg = document.getElementById('txtPrivateMessage');
         let ddlSelUser = document.getElementById('ddlSelUser');
@@ -64,7 +64,7 @@ if (!token) {
         inputMsg.value = '';
     }
 
-    // إنشاء غرفة جديدة
+    
     function addNewRoom(maxRoom) {
         let createRoomName = document.getElementById('createRoomName');
         var roomName = createRoomName.value;
@@ -84,7 +84,7 @@ if (!token) {
         });
     }
 
-    // حذف غرفة
+    
     function deleteRoom() {
         let ddlDelRoom = document.getElementById('ddlDelRoom');
         var roomName = ddlDelRoom.options[ddlDelRoom.selectedIndex].text;
@@ -104,7 +104,7 @@ if (!token) {
         });
     }
 
-    // تحميل قائمة المستخدمين المتصلين
+   
     function fillUserDropDown() {
         $.getJSON('/ChatRooms/GetChatUser')
             .done(function (json) {
@@ -122,7 +122,7 @@ if (!token) {
             });
     }
 
-    // تحميل قائمة الغرف
+    
     function fillRoomDropDown() {
         $.getJSON('/ChatRooms/GetChatRoom')
             .done(function (json) {
@@ -146,7 +146,7 @@ if (!token) {
             });
     }
 
-    // إضافة رسالة إلى قائمة الرسائل
+    
     function addMessage(msg) {
         if (!msg) return;
         let ui = document.getElementById('messagesList');
@@ -155,7 +155,7 @@ if (!token) {
         ui.appendChild(li);
     }
 
-    // بدء الاتصال بـ SignalR
+    
     connection.start()
         .then(() => {
             console.log("Connected to chat hub");
